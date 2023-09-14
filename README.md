@@ -1,2 +1,2 @@
-# Booking-EDA-Project
-Airbnb Booking Analysis Exploratory Data Analysis
+# Airbnb-EDA-Project
+Airbnb Analysis Exploratory Data Analysis
